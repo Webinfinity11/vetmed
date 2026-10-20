@@ -1,0 +1,27 @@
+LOCAL ONLY. New photos matched to original workbook Sheet1. Original JPEG bytes embedded intact in square white SVG canvases; no resampling or redraw.
+0: WhatsApp Image 2026-10-20 at 16.59.32.jpeg -> p53; 15 GEL/kg, 203 GEL/15kg; source rows 53/555; original 555x541, square 555x555
+1: WhatsApp Image 2026-10-20 at 16.59.33.jpeg -> p58; 20.75 GEL/kg, 82 GEL/4kg; source rows 58/560; original 555x541, square 555x555
+3: WhatsApp Image 2026-10-20 at 16.59.36.jpeg -> p57; 20.5 GEL/kg, 81 GEL/4kg; source rows 57/559; original 1066x1599, square 1599x1599
+4: WhatsApp Image 2026-10-20 at 16.59.37 (1).jpeg -> p55; 14.4 GEL/kg, 193 GEL/15kg; source rows 55/557; original 1066x1600, square 1600x1600
+5: WhatsApp Image 2026-10-20 at 16.59.37 (2).jpeg -> p56; 20.5 GEL/kg, 81 GEL/4kg; source rows 56/558; original 990x990, square 990x990
+6: WhatsApp Image 2026-10-20 at 16.59.37 (3).jpeg -> p103; 25.4 GEL/kg, 95 GEL/4kg; source rows 103/612; original 555x541, square 555x555
+7: WhatsApp Image 2026-10-20 at 16.59.37.jpeg -> p54; 15.2 GEL/kg, 205 GEL/15kg; source rows 54/556; original 555x541, square 555x555
+8: WhatsApp Image 2026-10-20 at 16.59.38 (1).jpeg -> p60; 19.5 GEL/kg, 228 GEL/12.5kg; source rows 60/562; original 1000x1000, square 1000x1000
+9: WhatsApp Image 2026-10-20 at 16.59.38 (2).jpeg -> p104; 22 GEL/kg, 255 GEL/12.5kg; source rows 104/613; original 555x541, square 555x555
+10: WhatsApp Image 2026-10-20 at 16.59.38.jpeg -> p105; 28.6 GEL/kg, 107 GEL/4kg; source rows 105/614; original 555x541, square 555x555
+11: WhatsApp Image 2026-10-20 at 16.59.39.jpeg -> p121; 35.8 GEL/kg, 140 GEL/4kg; source rows 121/628; original 555x541, square 555x555
+12: WhatsApp Image 2026-10-20 at 16.59.40 (1).jpeg -> p98; 19.2 GEL/kg, 175 GEL/10kg; source rows 98/607; original 1000x1000, square 1000x1000
+13: WhatsApp Image 2026-10-20 at 16.59.40 (2).jpeg -> p62; 19.2 GEL/kg, 175 GEL/10kg; source rows 62/564; original 1000x1000, square 1000x1000
+14: WhatsApp Image 2026-10-20 at 16.59.40.jpeg -> p120; 25.5 GEL/kg, 280 GEL/11kg; source rows 120/627; original 1000x1000, square 1000x1000
+16: WhatsApp Image 2026-10-20 at 16.59.41.jpeg -> p106; 18.7 GEL/kg, 175 GEL/10kg; source rows 106/615; original 555x541, square 555x555
+17: WhatsApp Image 2026-10-20 at 17.06.11 (1).jpeg -> p115; 32 GEL/kg, 310 GEL/10kg; source rows 115/622; original 680x680, square 680x680
+18: WhatsApp Image 2026-10-20 at 17.06.11 (2).jpeg -> p117; 32 GEL/kg, 310 GEL/10kg; source rows 117/623; original 680x680, square 680x680
+19: WhatsApp Image 2026-10-20 at 17.06.11.jpeg -> p116; 32 GEL/kg, 310 GEL/10kg; source rows 116/624; original 680x680, square 680x680
+20: WhatsApp Image 2026-10-20 at 17.06.12 (1).jpeg -> p169; 32 GEL/kg, 527 GEL/17kg; source rows 169/696; original 680x680, square 680x680
+21: WhatsApp Image 2026-10-20 at 17.06.12 (2).jpeg -> p144; 32 GEL/kg, 527 GEL/17kg; source rows 144/651; original 680x680, square 680x680
+22: WhatsApp Image 2026-10-20 at 17.06.12 (3).jpeg -> p118; 32 GEL/kg, 527 GEL/17kg; source rows 118/625; original 2000x2000, square 2000x2000
+23: WhatsApp Image 2026-10-20 at 17.06.12.jpeg -> p67; 32 GEL/kg, 310 GEL/10kg; source rows 67/568; original 680x680, square 680x680
+24: WhatsApp Image 2026-10-20 at 17.06.13 (1).jpeg -> p65; 35.5 GEL/kg, 340 GEL/10kg; source rows 65/571; original 1200x1200, square 1200x1200
+25: WhatsApp Image 2026-10-20 at 17.06.13 (2).jpeg -> p64; 32 GEL/kg, 310 GEL/10kg; source rows 64/570; original 680x680, square 680x680
+26: WhatsApp Image 2026-10-20 at 17.06.13.jpeg -> p66; 30 GEL/kg, 286 GEL/10kg; source rows 66/572; original 1013x608, square 1013x1013
+UNMATCHED: photo 2 Happy Dog Sensible Puppy Lamb & Rice; photo 15 Happy Dog Sensible Mini Puppy Lamb & Rice. Do not substitute NaturCroq or Fit & Vital.

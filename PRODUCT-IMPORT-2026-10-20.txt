@@ -1,0 +1,26 @@
+LOCAL ONLY — awaiting user approval before push/deploy.
+15 Pro Plan products; 1 kg increments, minimum 1 kg. Separate whole-bag price.
+Source: პროდუქცია & ფასები.xlsx / Sheet1. Images: H:/sites 2.0/vetmed/proplan/ready.
+Package size in photo may differ; UI explicitly notes this.
+p89: loose row 89 = 22.4 GEL/kg; bag row 598 = 130 GEL/7kg; /images/products/pro-plan/small-mini-puppy-chicken.jpg
+p16: loose row 16 = 23.8 GEL/kg; bag row 504 = 135 GEL/7kg; /images/products/pro-plan/small-mini-adult-salmon.jpg
+p18: loose row 18 = 23 GEL/kg; bag row 506 = 130 GEL/7kg; /images/products/pro-plan/small-mini-adult-lamb.jpg
+p17: loose row 17 = 21.5 GEL/kg; bag row 505 = 140 GEL/7kg; /images/products/pro-plan/small-mini-adult-chicken.jpg
+p88: loose row 88 = 20 GEL/kg; bag row 597 = 197 GEL/12kg; /images/products/pro-plan/medium-puppy-chicken.jpg
+p19: loose row 19 = 20.7 GEL/kg; bag row 507 = 230 GEL/12kg; /images/products/pro-plan/large-puppy-chicken.jpg
+p91: loose row 91 = 21.5 GEL/kg; bag row 600 = 212 GEL/12kg; /images/products/pro-plan/medium-puppy-lamb.jpg
+p86: loose row 86 = 18.8 GEL/kg; bag row 595 = 245 GEL/14kg; /images/products/pro-plan/large-adult-lamb.jpg
+p136: loose row 136 = 24 GEL/kg; bag row 645 = 230 GEL/10kg; /images/products/pro-plan/sterilised-rabbit.jpg
+p145: loose row 145 = 24 GEL/kg; bag row 652 = 230 GEL/10kg; /images/products/pro-plan/sterilised-salmon.jpg
+p12: loose row 12 = 24 GEL/kg; bag row 500 = 230 GEL/10kg; /images/products/pro-plan/sterilised-turkey.jpg
+p14: loose row 14 = 24 GEL/kg; bag row 502 = 230 GEL/10kg; /images/products/pro-plan/kitten-turkey.jpg
+p9: loose row 9 = 24 GEL/kg; bag row 497 = 230 GEL/10kg; /images/products/pro-plan/adult-lamb.jpg
+p11: loose row 11 = 22.9 GEL/kg; bag row 499 = 215 GEL/10kg; /images/products/pro-plan/kitten-chicken.jpg
+p15: loose row 15 = 24 GEL/kg; bag row 503 = 230 GEL/10kg; /images/products/pro-plan/adult-turkey.pngLocal shopping preview update (20.10.2026):
+- Product URLs /products/<id>, 37 static product pages.
+- Catalog pagination: max 15 results, resets when filters change.
+- Persistent local cart with separate loose/bag lines, quantity 1–999.
+- Checkout is a local preview only: contact form validation and review; no order transmission, payment or customer-data persistence.
+- Original JPG bytes preserved inside white-background SVG clipping wrappers for small-mini-adult-chicken and sterilised-salmon. Generated raster edits were rejected because packaging details could change.
+- LOCAL_SHOPPING=1 uses a separate build directory. Start with START-SHOPPING-PREVIEW.cmd in parent workspace, port 43191.
+- No push/deploy authorized yet.
