@@ -396,3 +396,20 @@ h1,h2,h3{-webkit-text-stroke:.45px currentColor}
 .product-photo-open{position:relative;display:block;width:100%;padding:0;cursor:zoom-in;background:#fff;text-align:initial}.product-photo-open>span{position:absolute;right:18px;bottom:18px;display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:var(--paper);color:var(--ink)}
 .product-photo-dialog{border:0;border-radius:18px;padding:56px 12px 12px;width:min(960px,94vw);height:90dvh;max-height:90dvh;max-width:94vw;background:#fff;overflow:hidden}.product-photo-dialog::backdrop{background:#102c30cc}.product-photo-toolbar{position:absolute;top:10px;right:12px;display:flex;gap:10px}.product-photo-toolbar button{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--paper)}.product-photo-stage{height:100%;overflow:auto;overscroll-behavior:contain}.product-photo-stage img{width:100%;height:100%;object-fit:contain}.product-photo-stage.is-zoomed img{width:200%;height:200%;max-width:none;object-fit:contain}
 .about-intro>.clinic-photo-button{max-width:none;justify-self:stretch}.about-intro>.clinic-photo-button img{width:100%;height:auto;max-height:none;object-fit:contain}
+
+/* Blend category photograph backgrounds into their cards. */
+.category-tiles>a{background:#e9e6db}
+.category-tiles img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover;padding:0;mix-blend-mode:normal}
+.category-tiles a:hover img{transform:none}
+.category-tiles span{background:#e9e6db}
+.category-tiles>a:has(img[src="/images/shop/beds.webp"]),.category-tiles>a:has(img[src="/images/shop/beds.webp"]) span{background:#f2eee9}
+.category-tiles>a:has(img[src="/images/shop/bowls.webp"]),.category-tiles>a:has(img[src="/images/shop/bowls.webp"]) span{background:#f4f1eb}
+.category-tiles>a:has(img[src="/images/shop/carriers.webp"]),.category-tiles>a:has(img[src="/images/shop/carriers.webp"]) span{background:#f0efe9}
+.category-tiles>a:has(img[src="/images/shop/collars.webp"]),.category-tiles>a:has(img[src="/images/shop/collars.webp"]) span{background:#f0efe9}
+.category-tiles>a:has(img[src="/images/shop/dry.webp"]),.category-tiles>a:has(img[src="/images/shop/dry.webp"]) span{background:#f1f0ea}
+.category-tiles>a:has(img[src="/images/shop/grooming.webp"]),.category-tiles>a:has(img[src="/images/shop/grooming.webp"]) span{background:#f1f0ea}
+.category-tiles>a:has(img[src="/images/shop/hygiene.webp"]),.category-tiles>a:has(img[src="/images/shop/hygiene.webp"]) span{background:#f1ede7}
+.category-tiles>a:has(img[src="/images/shop/medicine.webp"]),.category-tiles>a:has(img[src="/images/shop/medicine.webp"]) span{background:#f2eee9}
+.category-tiles>a:has(img[src="/images/shop/snacks.webp"]),.category-tiles>a:has(img[src="/images/shop/snacks.webp"]) span{background:#f0ece6}
+.category-tiles>a:has(img[src="/images/shop/toys.webp"]),.category-tiles>a:has(img[src="/images/shop/toys.webp"]) span{background:#f1ede5}
+.category-tiles>a:has(img[src="/images/shop/wet.webp"]),.category-tiles>a:has(img[src="/images/shop/wet.webp"]) span{background:#f4f3ec}
