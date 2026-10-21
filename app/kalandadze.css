@@ -376,3 +376,23 @@ h1,h2,h3{-webkit-text-stroke:.45px currentColor}
 .catalog-sidebar>button{padding-left:12px;padding-right:12px}.catalog-sidebar>h2{padding-left:12px}.brand-checklist{padding-left:12px;padding-right:12px}.brand-checklist legend{margin-left:0}.catalog-sidebar .brand-checklist legend h2{padding-left:0}
 
 .catalog-sidebar>button:hover,.catalog-sidebar>button.selected{transform:none}
+@media(max-width:720px){
+ .catalog-sidebar>button .category-label{font-size:12px;line-height:1.45}
+ .catalog-sidebar .brand-checklist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 14px;padding-top:14px}
+ .brand-checklist legend{width:100%}
+ .brand-checklist label{font-size:12px;line-height:1.45;gap:8px;min-width:0;padding:8px 0}
+ .brand-checklist input{width:16px;height:16px;flex-basis:16px}
+ .brand-checklist .brand-reset{grid-column:1/-1;justify-self:start}
+ .shop-heading.branded-heading{padding:16px 18px;gap:10px;margin-bottom:22px}
+ .shop-heading.branded-heading .heading-logo{width:82px;height:46px}
+ .shop-heading .heading-copy{width:100%;min-width:0}
+ .shop-heading.branded-heading .eyebrow{font-size:8px;margin-bottom:6px}
+ .shop-heading.branded-heading h1{font-size:clamp(15px,4.5vw,22px);line-height:1.3;white-space:nowrap;letter-spacing:0;margin:0 0 8px;text-wrap:nowrap}
+ .shop-heading.branded-heading p{font-size:12px;line-height:1.55;margin:0;max-width:none}
+}
+@media(max-width:720px){.site-header .header-actions{gap:14px}} @media(max-width:360px){.site-header .header-actions{gap:10px}}
+
+.service-intro{max-width:1280px}@media(min-width:1440px){.service-intro{max-width:1350px}}
+.product-photo-open{position:relative;display:block;width:100%;padding:0;cursor:zoom-in;background:#fff;text-align:initial}.product-photo-open>span{position:absolute;right:18px;bottom:18px;display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:var(--paper);color:var(--ink)}
+.product-photo-dialog{border:0;border-radius:18px;padding:56px 12px 12px;width:min(960px,94vw);height:90dvh;max-height:90dvh;max-width:94vw;background:#fff;overflow:hidden}.product-photo-dialog::backdrop{background:#102c30cc}.product-photo-toolbar{position:absolute;top:10px;right:12px;display:flex;gap:10px}.product-photo-toolbar button{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--paper)}.product-photo-stage{height:100%;overflow:auto;overscroll-behavior:contain}.product-photo-stage img{width:100%;height:100%;object-fit:contain}.product-photo-stage.is-zoomed img{width:200%;height:200%;max-width:none;object-fit:contain}
+.about-intro>.clinic-photo-button{max-width:none;justify-self:stretch}.about-intro>.clinic-photo-button img{width:100%;height:auto;max-height:none;object-fit:contain}
